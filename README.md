@@ -4,7 +4,7 @@
 
 - **[下载BurpLoaderKeygen_v1.17.jar](https://ghfast.top/https://github.com/avicii2020/BurpSuitePro-2.1/raw/refs/heads/master/BurpLoaderKeygen_v1.17.jar)**
 
-- **[下载burp-keygen-scz.jar](https://ghfast.top/https://github.com/avicii2020/BurpSuitePro-2.1/raw/refs/heads/master/BurpLoaderKeygen_v1.17.jar)**
+- **[下载burp-keygen-scz.jar](https://ghfast.top/https://github.com/avicii2020/BurpSuitePro-2.1/raw/refs/heads/master/burp-keygen-scz.jar)**
 
 **Jar包下载方式**
 
