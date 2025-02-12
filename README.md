@@ -12,6 +12,12 @@
 https://portswigger.net/burp/releases/download?product=pro&version=2024.6.5&type=jar
 ```
 
+- **[百度云盘-BurpSuite](https://pan.baidu.com/s/1aWmflQYME9qz4MtKEP8vNQ?pwd=xaqx)**
+
+- **[百度云盘-Datch-BurpSuite](https://pan.baidu.com/s/1J_CUxLKqC0h3Ypg4sQV0_g?pwd=52pj)**
+
+- **[渗透资源备份](https://github.com/TrojanAZhen/penetration_resource_backup)**
+
 ## SHA256及MD5
 
 - **burp-keygen-scz**
